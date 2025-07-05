@@ -10,10 +10,10 @@
 
 ### Social
 <a href="https://www.linkedin.com/in/manuel-laug" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" style="height: 50px"/>
 </a>
 &nbsp;
 &nbsp;
 <a href="https://www.xing.com/profile/Manuel_Laug" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xing_logo.svg/2560px-Xing_logo.svg.png" alt="xing" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Xing_logo.svg/2560px-Xing_logo.svg.png" alt="xing" style="height: 50px"/>
 </a>

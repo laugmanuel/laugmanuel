@@ -10,20 +10,6 @@
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=laugmanuel&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=laugmanuel&theme=github-dark-blue&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=laugmanuel&layout=compact&theme=github_dark_dimmed&hide_border=true)
-
-</div>
-
----
-
 ### 🐍 Contributions
 
 <div align="center">
